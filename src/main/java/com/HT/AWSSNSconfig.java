@@ -11,8 +11,8 @@ import com.amazonaws.regions.Regions;
 @Configuration
 public class AWSSNSconfig {
 	
-	public static final String SECRET_KEY="u+mmao5sVeIkHE/PX+NSqL36l1+pYTB453LHp75h";
-	public static final String ACCESS_KEY="AKIA3CUFNT6PUOBRON4Q";
+	public static final String SECRET_KEY="";
+	public static final String ACCESS_KEY="";
 	
 	@Primary
 	@Bean
